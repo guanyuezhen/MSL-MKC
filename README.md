@@ -1,1 +1,1 @@
-# MSL-MKC
+# Mutual Structure Learning for Multiple Kernel Clustering
