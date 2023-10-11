@@ -11,7 +11,7 @@ This repository contains simple Matlab implementation of our paper [MSL-MKC](htt
     <img src="assest/MSL-MKC.jpg"/> <br />
 </p>
 
-Illustration of the proposed multiple kernel clustering method. Each base partition is obtained by performing kernel $k$-means clustering on each base kernel. The consensus partition, optimal kernel matrix, and adaptive neighbor graph are denoted by $\mathbf{F}$, $\mathbf{G}$, and $\mathbf{S}$, respectively. The method integrates optimal kernel learning, partition fusion, and adaptive neighbor graph learning into a unified framework, \textcolor[rgb]{0,0,1}{allowing for mutual enhancement of} the cluster structure and pair-wise structure. As a result, the proposed method can effectively learn an improved consensus partition matrix for the multiple kernel clustering task. <br>
+Illustration of the proposed multiple kernel clustering method. Each base partition is obtained by performing kernel $k$-means clustering on each base kernel. The consensus partition, optimal kernel matrix, and adaptive neighbor graph are denoted by $\mathbf{F}$, $\mathbf{G}$, and $\mathbf{S}$, respectively. The method integrates optimal kernel learning, partition fusion, and adaptive neighbor graph learning into a unified framework, allowing for mutual enhancement of the cluster structure and pair-wise structure. As a result, the proposed method can effectively learn an improved consensus partition matrix for the multiple kernel clustering task. <br>
 
 ### 2. Citation
 
